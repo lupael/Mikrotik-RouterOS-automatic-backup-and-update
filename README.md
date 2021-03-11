@@ -61,4 +61,14 @@ You will see the script working process in the log window. If the script finishe
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+#----------SCRIPT INFORMATION---------------------------------------------------
+#
+# Script:  Mikrotik RouterOS automatic backup & update
+# Updated: 11/03/2021
+# Author:  Ashik Iqbal Lupael
+# Website: https://github.com/lupael
+# You can contact me by e-mail at support@i4e.com.bd
+#
+# IMPORTANT!
+# Minimum supported RouterOS version is v6.43.7
 
